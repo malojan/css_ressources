@@ -25,10 +25,20 @@ CSS_ressources
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
 - [Machine Learning for Natural Language Processing](https://nlp-ensae.github.io/) : NLP course ENSAE
 
+### Topic modeling
+
+- [Topic modeling with quanteda and STM](https://rstudio-pubs-static.s3.amazonaws.com/406792_9287b832dd9e413f97243628cb2f7ddb.html)
+- [STM_course](https://rpubs.com/Rawrion/669023)
+- [Tutorial 13: Topic Modeling](https://bookdown.org/valerie_hase/TextasData_HS2021/tutorial-13-topic-modeling.html)
+- [An Introduction to the Structural Topic Model (STM)](https://burtmonroe.github.io/TextAsDataCourse/Tutorials/IntroSTM.nb.html)
+- [ETM - R package for Topic Modelling in Embedding Spaces](https://pythonrepo.com/repo/bnosac-ETM-python-natural-language-processing)
 ### Embeddings
 
 - [Word embeddings R Tutorial](https://cbail.github.io/textasdata/word2vec/rmarkdown/word2vec.html) by Chris bail
+- [word2vec in R](http://www.bnosac.be/index.php/blog/100-word2vec-in-R)
+## Dimensionality reduction
 
+- [How To Make tSNE plot in R](https://datavizpyr.com/how-to-make-tsne-plot-in-r/)
 
 # Modeling
 
