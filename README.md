@@ -5,11 +5,21 @@ CSS_ressources
 
 - [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/)
 
+# Data collection
+
+- [Web Scraping and Data Management in R](https://github.com/rochelleterman/ESS-webscraping) Rochelle Terman
+- [academictwitteR](https://github.com/cjbarrie/academictwitteR) : R package to access twitter API
+ 
 # Machine Learning
 
 ## Machine Learning with R
 
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+
+### Embeddings
+
+- [Word embeddings R Tutorial](https://cbail.github.io/textasdata/word2vec/rmarkdown/word2vec.html) by Chris bail
+
 
 # Modeling
 
