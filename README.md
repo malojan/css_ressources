@@ -18,12 +18,13 @@ CSS_ressources
  
 # Machine Learning
 
-## Machine Learning with R
+## Machine Learning & Deep Learning with R
 
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 - [Introduction to Machine Learning with the Tidyverse](https://conf20-intro-ml.netlify.app/) : Rstudio conf Tutorial
 - [POLISCI 150B: Machine Learning for Social Science](https://github.com/rochelleterman/polisci150b) : Rochell Terman course
 
+- **[Deep Learning in R]**(https://github.com/dlab-berkeley/R-Deep-Learning)
 ## ML tex-as-data/NLP
 
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
