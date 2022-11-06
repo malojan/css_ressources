@@ -4,7 +4,8 @@ CSS_ressources
 # CSS General
 
 - [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/)
-
+- [Bit by Bit](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew J. Salganik
+- [CSS course SCISS](https://cbail.github.io/comp_soc_grad/Home.html#Course_Description)
 # Data collection
 
 - [Web Scraping and Data Management in R](https://github.com/rochelleterman/ESS-webscraping) Rochelle Terman
@@ -16,6 +17,13 @@ CSS_ressources
 ## Machine Learning with R
 
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+- [Introduction to Machine Learning with the Tidyverse](https://conf20-intro-ml.netlify.app/) : Rstudio conf Tutorial
+- [POLISCI 150B: Machine Learning for Social Science](https://github.com/rochelleterman/polisci150b) : Rochell Terman course
+
+## ML tex-as-data/NLP
+
+- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
+- [Machine Learning for Natural Language Processing](https://nlp-ensae.github.io/) : NLP course ENSAE
 
 ### Embeddings
 
