@@ -59,4 +59,8 @@ CSS_ressources
 
 - [Let’s Git started](https://happygitwithr.com/)
 
+# Writing and communication
+
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- [Les tableaux statiques pour vos rapports en R](https://thinkr.fr/les-tableaux-statiques-pour-vos-rapports-en-r/)
 
