@@ -11,11 +11,11 @@ CSS_ressources
 
 # Data collection
 
-- [Web Scraping and Data Management in R](https://github.com/rochelleterman/ESS-webscraping) Rochelle Terman
+- [Web Scraping and Data Management in R](https://github.com/rochelleterman/ESS-webscraping) by Rochelle Terman
 - [Web crawling and scraping](https://tm4ss.github.io/docs/Tutorial_1_Web_scraping.html) : scraping tutorial with R
 - [Web Scraping Reference: Cheat Sheet for Web Scraping using R](https://github.com/yusuzech/r-web-scraping-cheat-sheet)
 - [academictwitteR](https://github.com/cjbarrie/academictwitteR) : R package to access twitter API
- 
+- [Web scraping workshop](https://resulumit.com/teaching/scrp_workshop.html#1), by Resul Umit 
 # Machine Learning
 
 ## Machine Learning & Deep Learning with R
