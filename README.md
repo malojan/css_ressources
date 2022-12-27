@@ -8,6 +8,7 @@ CSS_ressources
 - [CSS course SCISS](https://cbail.github.io/comp_soc_grad/Home.html#Course_Description)
 - [Introduction to Computational Tools and Techniques for Social Research ](https://github.com/rochelleterman/PS239T)
 - [Computational-Social-Science-Labs](https://github.com/dlab-berkeley/Computational-Social-Science-Training-Program)
+- [Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook/) by Rafael A. Irizarry
 
 # Data collection
 
