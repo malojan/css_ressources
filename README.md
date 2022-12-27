@@ -68,7 +68,7 @@ CSS_ressources
 # Reproducibility and version control
 
 - [Let’s Git started](https://happygitwithr.com/)
-
+- [Advices on reproducibility](https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/)
 # Writing and communication
 
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
