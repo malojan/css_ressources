@@ -49,7 +49,7 @@ CSS_ressources
 ### Transformers
 
 - Tuto [transformers](https://github.com/chkla/NLP2CSS-Tutorial)
-- Classifier CAP [german data](https://docs.google.com/presentation/d/15aXOCVXIoTMlmVNoaV-aDUwsnvAzZ0F3-I0FYbpyhKQ/edit#slide=id.p=
+- Classifier CAP [german data](https://docs.google.com/presentation/d/15aXOCVXIoTMlmVNoaV-aDUwsnvAzZ0F3-I0FYbpyhKQ/edit#slide=id.p=)
 - Text classifier [Sicss](https://colab.research.google.com/drive/13U89jMNzL-q_gg7sCSjrSWZIHnKA6UJ5?usp=sharing#scrollTo=9uapzhjYHeHl)
 ## Dimensionality reduction
 
