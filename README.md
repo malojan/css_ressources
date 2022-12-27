@@ -41,8 +41,7 @@ CSS_ressources
 - [ETM - R package for Topic Modelling in Embedding Spaces](https://pythonrepo.com/repo/bnosac-ETM-python-natural-language-processing)
 ### Embeddings
 
-- [Word embeddings R Tutorial](https://cbail.github.io/textasdata/word2vec/rmarkdown/word2vec.html) by Chris bail
-- [Word embedding R Tutotial SCISS 2022 by Christpher Barrie](https://raw.githack.com/cjbarrie/sicss_22/main/05_cta_notebook2.html) 
+- Word embeddings with R tutorials, by [Julia Silge](https://juliasilge.com/blog/tidy-word-vectors/), [Chris Bail](https://cbail.github.io/textasdata/word2vec/rmarkdown/word2vec.html), [Christopher Barrie](https://raw.githack.com/cjbarrie/sicss_22/main/05_cta_notebook2.html) 
 - [word2vec in R](http://www.bnosac.be/index.php/blog/100-word2vec-in-R)
 - On [word embeddings](https://ruder.io/word-embeddings-1/)
 
