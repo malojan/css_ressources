@@ -43,6 +43,7 @@ CSS_ressources
 
 - [Word embeddings R Tutorial](https://cbail.github.io/textasdata/word2vec/rmarkdown/word2vec.html) by Chris bail
 - [word2vec in R](http://www.bnosac.be/index.php/blog/100-word2vec-in-R)
+- On [word embeddings](https://ruder.io/word-embeddings-1/)
 ## Dimensionality reduction
 
 - [How To Make tSNE plot in R](https://datavizpyr.com/how-to-make-tsne-plot-in-r/)
