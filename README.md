@@ -48,6 +48,7 @@ CSS_ressources
 ### Transformers
 
 - Tuto [transformers](https://github.com/chkla/NLP2CSS-Tutorial)
+- Classifier CAP [german data](https://docs.google.com/presentation/d/15aXOCVXIoTMlmVNoaV-aDUwsnvAzZ0F3-I0FYbpyhKQ/edit#slide=id.p=
 
 ## Dimensionality reduction
 
