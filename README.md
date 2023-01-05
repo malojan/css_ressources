@@ -70,8 +70,11 @@ CSS_ressources
 
 - [Let’s Git started](https://happygitwithr.com/)
 - [Advices on reproducibility](https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/)
+
 # Writing and communication
 
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- [Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/)
+- [We dont talk about quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
 - [Les tableaux statiques pour vos rapports en R](https://thinkr.fr/les-tableaux-statiques-pour-vos-rapports-en-r/)
 
